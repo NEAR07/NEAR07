@@ -2,7 +2,7 @@
 <h3 align="center">Introduce my name Nizhar Achmad Husein Bernardt</h3>
 
 
-## 🙋‍♂️ About Me <img src="https://komarev.com/ghpvc/?username=NEAR07h&color=green" alt="Profile views" /> 
+## 🙋‍♂️ About Me <img src="https://komarev.com/ghpvc/?username=NEAR07&color=green" alt="Profile views" /> 
 
 
 - 🏫 I am studying at [Politeknik Elektronika Negeri Surabaya](https://www.pens.ac.id/en/).
