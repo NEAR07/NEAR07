@@ -21,7 +21,7 @@
   </a>
   </p>
 
-## 🛠 &nbsp;My Stack
+## 🛠 &nbsp;Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++&logoColor=1572B6)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML)&nbsp;
