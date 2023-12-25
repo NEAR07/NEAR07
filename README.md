@@ -9,7 +9,6 @@
 
 - 🤖 I am a member of [ERSOW TEAM](https://ersow.pens.ac.id), which is the wheeled soccer robot research team at PENS, serving in the programmer division.
 
-![NEAR07's GitHub stats](https://github-readme-stats.vercel.app/api?username=NEAR07&show_icons=true&theme=aura)
 
 ## 🙂 If you are interested in getting to know me, please follow my personal account :
 
@@ -32,3 +31,18 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=Tensorflow)&nbsp;
+
+## &#x1f4c8; GitHub Stats
+<!--
+![NEAR07's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NEAR07&show_icons=true&theme=aura)
+![NEAR07's GitHub stats](https://github-readme-stats.vercel.app/api?username=NEAR07&show_icons=true&theme=aura)
+-->
+
+<a href="https://github.com/NEAR07/NEAR07">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEAR07&show_icons=true&theme=aura&langs_count=5" />
+</a>
+<a href="https://github.com/NEAR07/NEAR07">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NEAR07&show_icons=true&theme=aura" alt="Nizhar Achmad's GitHub Stats" />
+</a>
+
+
