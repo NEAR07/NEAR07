@@ -1,5 +1,5 @@
 <h1 align="center">Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" /> </h1>
-<h3 align="center">Introduce my name Nizhar Achmad Husein Bernardt</h3>
+<h3 align="center">My name Nizhar Achmad Husein Bernardt and I'm from Indonesia</h3>
 
 
 ## 🙋‍♂️ About Me <img src="https://komarev.com/ghpvc/?username=NEAR07&color=green" alt="Profile views" /> 
