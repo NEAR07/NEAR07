@@ -1,4 +1,4 @@
-<h1 align="center">Hi Everyone!👋</h1>
+<h1 align="center">Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" /> </h1>
 <h3 align="center">Introduce my name Nizhar Achmad Husein Bernardt</h3>
 
 
@@ -24,6 +24,7 @@
 ## 🛠 &nbsp;My Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++&logoColor=1572B6)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML)&nbsp;
 ![ROS](https://img.shields.io/badge/-ROS-05122A?style=flat&logo=ROS)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=OpenCV)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -39,10 +40,10 @@
 -->
 
 <a href="https://github.com/NEAR07/NEAR07">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEAR07&show_icons=true&theme=aura&langs_count=5" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEAR07&show_icons=true&theme=outrun&langs_count=5" />
 </a>
 <a href="https://github.com/NEAR07/NEAR07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NEAR07&show_icons=true&theme=aura" alt="Nizhar Achmad's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NEAR07&show_icons=true&theme=outrun" alt="Nizhar Achmad's GitHub Stats" />
 </a>
 
 
