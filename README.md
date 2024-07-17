@@ -10,7 +10,7 @@
 - 🤖 I am a member of [ERSOW TEAM](https://ersow.pens.ac.id), which is the wheeled soccer robot research team at PENS, serving in the programmer division.
 
 
-## 🙂 If you are interested in getting to know me, follow my personal account :
+## 🙂 If you are interested in getting to know me, follow my personal account
 
 * <p align="left" style="background:blue">
   <a href="https://www.instagram.com/nizhar_achmad/?hl=id" target="_blank">
