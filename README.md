@@ -7,7 +7,7 @@
 
 - 🏫 I'm a graduate of the [Politeknik Elektronika Negeri Surabaya](https://www.pens.ac.id/en/).
 
-- 🤖 I am a member of [ERSOW TEAM](https://ersow.pens.ac.id), which is the wheeled soccer robot research team at PENS, serving in the programmer division.
+- 🤖 I am a member of [ERSOW TEAM](https://ersow.pens.ac.id), which is the wheeled soccer robot research team at PENS, serving in the programmer division (2022 - 2024).
 
 
 ## 🙂 If you are interested in getting to know me, follow my personal account
