@@ -5,7 +5,7 @@
 ## 🙋‍♂️ About Me <img src="https://komarev.com/ghpvc/?username=NEAR07&color=green" alt="Profile views" /> 
 I am a goal-oriented programmer with strong analytical skills and excelling in collaborative environments. I have hands-on experience with autonomous mobile robots and specialize in computer vision, machine learning, embedded systems, and electrical systems. I thrive in collaborative environments and am dedicated to solving complex technical challenges.
 
-- 🏫 I'm a graduate of the [Politeknik Elektronika Negeri Surabaya](https://www.pens.ac.id/en/).
+- 🏫 I'm a graduated of the [Politeknik Elektronika Negeri Surabaya](https://www.pens.ac.id/en/).
 
 - 🤖 Have worked in [ERSOW TEAM](https://ersow.pens.ac.id), which is the wheeled soccer robot research team at PENS, serving in the programmer division (2022 - 2024).
 - 🤖 Have worked in PENSHIP ROBOBOAT TEAM, which is the roboboat team at PENS, serving in the researcher (2021).
