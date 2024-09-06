@@ -3,7 +3,7 @@
 
 
 ## 🙋‍♂️ About Me <img src="https://komarev.com/ghpvc/?username=NEAR07&color=green" alt="Profile views" /> 
-
+I am a goal-oriented programmer with strong analytical skills and excelling in collaborative environments. I have hands-on experience with autonomous mobile robots and specialize in computer vision, machine learning, embedded systems, and electrical systems. I thrive in collaborative environments and am dedicated to solving complex technical challenges.
 
 - 🏫 I'm a graduate of the [Politeknik Elektronika Negeri Surabaya](https://www.pens.ac.id/en/).
 
